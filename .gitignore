@@ -1,7 +1,7 @@
-data/
 .venv/
 .idea/
 *.iml
 .DS_Store
-variants/
-tests/
+/variants/
+/tests/
+/data/
